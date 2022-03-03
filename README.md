@@ -18,7 +18,7 @@ with LINQ
 
 - C sharp programming
 - CRUD operations
-- MS SQL
+- SQL
 - LINQ
 
 ## Methodology
